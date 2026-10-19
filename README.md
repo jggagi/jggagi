@@ -1,5 +1,3 @@
-<img src="assets/avatar.png" align="right" width="144" alt="A small jade mountain island, a pine, and a warm light beneath the moon" />
-
 # Hi, I'm jggagi.
 
 **Build small. Understand deeply.**
@@ -8,11 +6,9 @@ I explore ideas by turning them into useful tools, interactive experiments, and 
 
 把好奇心变成能用的工具、能玩的实验和能看见的故事。
 
-<br clear="right" />
-
 ### What I explore · 探索方向
 
-| | What draws me in |
+| Focus · 方向 | What draws me in |
 | :--- | :--- |
 | **Local-first tools & AI**<br>本地优先工具与 AI | Useful software that keeps people in control.<br>让工具有用，也让使用者保有选择。 |
 | **Interactive worlds & learning**<br>互动世界与学习 | Small worlds and hands-on experiments that make ideas tangible.<br>用可探索的小世界，把抽象想法变得具体。 |
